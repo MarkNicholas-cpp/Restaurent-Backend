@@ -1,0 +1,25 @@
+{
+  "name": "restaurent-apis",
+  "version": "1.0.0",
+  "description": "This is an server which serves all the apis for the restaurent website;",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marknicholas-cpp.git"
+  },
+  "author": "Mark Nicholas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/marknicholas-cpp/issues"
+  },
+  "homepage": "https://github.com/github.com/marknicholas-cpp#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^7.4.3"
+  }
+}
